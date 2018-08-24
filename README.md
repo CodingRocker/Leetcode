@@ -1,2 +1,2 @@
 # Leetcode
-Keep solution here
+Let's work hard together :)
