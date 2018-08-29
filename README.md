@@ -6,11 +6,13 @@ Path:
 Q1
 
  -Java
+ 
  -Python
 
-
 Q2
+ 
  -Java 
+ 
  -Python
 
 ...
